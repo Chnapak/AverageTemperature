@@ -1,0 +1,14 @@
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\bin\Debug\net8.0\AverageTemp.exe
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\bin\Debug\net8.0\AverageTemp.deps.json
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\bin\Debug\net8.0\AverageTemp.runtimeconfig.json
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\bin\Debug\net8.0\AverageTemp.dll
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\bin\Debug\net8.0\AverageTemp.pdb
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\obj\Debug\net8.0\AverageTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\obj\Debug\net8.0\AverageTemp.AssemblyInfoInputs.cache
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\obj\Debug\net8.0\AverageTemp.AssemblyInfo.cs
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\obj\Debug\net8.0\AverageTemp.csproj.CoreCompileInputs.cache
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\obj\Debug\net8.0\AverageTemp.dll
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\obj\Debug\net8.0\refint\AverageTemp.dll
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\obj\Debug\net8.0\AverageTemp.pdb
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\obj\Debug\net8.0\AverageTemp.genruntimeconfig.cache
+C:\Users\matej\source\repos\C#Practice\AverageTemp\AverageTemp\obj\Debug\net8.0\ref\AverageTemp.dll
